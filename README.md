@@ -6,7 +6,7 @@
 
 FounderSignal is an MCP server that connects Claude (and any MCP-compatible AI client) to curated market intelligence — revenue figures, growth signals, competition analysis and community pain points aggregated from the platforms founders actually use.
 
-Instead of spending a Saturday copy-pasting numbers from AppSumo, TrustMRR, Reddit and Product Hunt into a spreadsheet, you just ask.
+Instead of spending a Saturday copy-pasting data from AppSumo, TrustMRR, Reddit, Google, or Product Hunt into a spreadsheet, you just ask.
 
 ---
 
