@@ -1,0 +1,28 @@
+{
+  "name": "foundersignal-mcp",
+  "version": "0.1.0",
+  "description": "MCP server that gives Claude access to curated market intelligence — revenue data, growth signals and community pain points to find SaaS ideas worth building.",
+  "main": "index.js",
+  "bin": {
+    "foundersignal-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "claude",
+    "market-research",
+    "saas",
+    "indie-hackers",
+    "founder-tools",
+    "ai-tools",
+    "product-validation"
+  ],
+  "author": "Carlos Alvite",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
