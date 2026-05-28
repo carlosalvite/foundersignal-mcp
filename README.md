@@ -75,6 +75,10 @@ Export a full HTML market intelligence report to disk — 30 ranked opportunitie
 | **G2 / Capterra** | Software reviews exposing gaps in existing tools |
 | **Exploding Topics** | Emerging trends before they peak |
 | **Crunchbase** | Funding signals — what investors are betting on |
+| **Google Trends** | Search demand and emerging category signals |
+| **Meta Ads Library** | Ad creative trends — what founders are actively promoting |
+| **TikTok** | Viral product trends and consumer demand before it hits mainstream |
+| **LinkedIn** | B2B demand signals and professional pain points |
 
 More sources added with each release.
 
