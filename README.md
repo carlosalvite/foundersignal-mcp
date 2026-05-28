@@ -1,5 +1,7 @@
 # FounderSignal MCP
 
+> **Early access open** — Join the waitlist at [foundersignal.io](https://05-founder-signal-landing.vercel.app)
+
 **Ask Claude what to build. Get ranked opportunities backed by real market data.**
 
 FounderSignal is an MCP server that connects Claude (and any MCP-compatible AI client) to curated market intelligence — revenue figures, growth signals, competition analysis and community pain points aggregated from the platforms founders actually use.
