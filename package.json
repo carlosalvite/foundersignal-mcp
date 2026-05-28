@@ -1,10 +1,15 @@
 {
   "name": "foundersignal-mcp",
   "version": "0.1.0",
+  "mcpName": "io.github.carlosalvite/foundersignal",
   "description": "MCP server that gives Claude access to curated market intelligence — revenue data, growth signals and community pain points to find SaaS ideas worth building.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosalvite/foundersignal-mcp.git"
+  },
   "main": "index.js",
   "bin": {
-    "foundersignal-mcp": "./index.js"
+    "foundersignal-mcp": "index.js"
   },
   "scripts": {
     "start": "node index.js"
